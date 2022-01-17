@@ -3,5 +3,5 @@
 > I created a wireframe for the restaurant included
 (intro, Menu, social media accounts, any information about a restaurant).
 
-> # ***Wireframe*** 
- ![WireframeRestaurant](/wireframeRestaurant.png)
+> [GO to Wireframe](wireframe/wireframe.md) 
+ 
